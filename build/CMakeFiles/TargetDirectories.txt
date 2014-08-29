@@ -1,0 +1,3 @@
+C:/VTK/VTK-examples/VTKCamera/build/CMakeFiles/ALL_BUILD.dir
+C:/VTK/VTK-examples/VTKCamera/build/CMakeFiles/Camera.dir
+C:/VTK/VTK-examples/VTKCamera/build/CMakeFiles/ZERO_CHECK.dir
